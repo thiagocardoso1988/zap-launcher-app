@@ -1,16 +1,11 @@
 # zap_launcher_app
 
-A new Flutter project.
+![](./assets/images/icon2.png)
 
-## Getting Started
+Aplicativo para iniciar conversas no Whatsapp sem a necessidade de adicionar/salvar um novo contato.
 
-This project is a starting point for a Flutter application.
+## Como utilizar
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Digite o DDD e o Telefone da pessoa com quem deseja iniciar uma conversa, clique no botão **Iniciar Conversa**.
+2. Aguarde carregar a página do Whatsapp e clique em **Abrir**
+3. O Whatsapp vai abrir a conversa com seu contato, mesmo que você não tenha esse contato salvo
